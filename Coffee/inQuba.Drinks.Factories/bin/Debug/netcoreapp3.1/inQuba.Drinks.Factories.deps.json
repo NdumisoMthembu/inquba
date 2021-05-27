@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "inQuba.Drinks.Factories/1.0.0": {
+        "dependencies": {
+          "inQuba.Drinks": "1.0.0"
+        },
+        "runtime": {
+          "inQuba.Drinks.Factories.dll": {}
+        }
+      },
+      "inQuba.Drinks/1.0.0": {
+        "runtime": {
+          "inQuba.Drinks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inQuba.Drinks.Factories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "inQuba.Drinks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

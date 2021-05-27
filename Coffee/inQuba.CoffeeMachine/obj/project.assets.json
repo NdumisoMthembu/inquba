@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "inQuba.Drinks/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/inQuba.Drinks.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/inQuba.Drinks.dll": {}
+        }
+      },
+      "inQuba.Drinks.Factories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "inQuba.Drinks": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/inQuba.Drinks.Factories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/inQuba.Drinks.Factories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inQuba.Drinks/1.0.0": {
+      "type": "project",
+      "path": "../inQuba.Drinks/inQuba.Drinks.csproj",
+      "msbuildProject": "../inQuba.Drinks/inQuba.Drinks.csproj"
+    },
+    "inQuba.Drinks.Factories/1.0.0": {
+      "type": "project",
+      "path": "../inQuba.Drinks.Factories/inQuba.Drinks.Factories.csproj",
+      "msbuildProject": "../inQuba.Drinks.Factories/inQuba.Drinks.Factories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "inQuba.Drinks.Factories >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ndumiso.mthembu\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\NDU\\inquba\\test\\inquba\\Coffee\\inQuba.CoffeeMachine\\inQuba.CoffeeMachine.csproj",
+      "projectName": "inQuba.CoffeeMachine",
+      "projectPath": "C:\\NDU\\inquba\\test\\inquba\\Coffee\\inQuba.CoffeeMachine\\inQuba.CoffeeMachine.csproj",
+      "packagesPath": "C:\\Users\\ndumiso.mthembu\\.nuget\\packages\\",
+      "outputPath": "C:\\NDU\\inquba\\test\\inquba\\Coffee\\inQuba.CoffeeMachine\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ndumiso.mthembu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\NDU\\inquba\\test\\inquba\\Coffee\\inQuba.Drinks.Factories\\inQuba.Drinks.Factories.csproj": {
+              "projectPath": "C:\\NDU\\inquba\\test\\inquba\\Coffee\\inQuba.Drinks.Factories\\inQuba.Drinks.Factories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwZim/8pWex1Awn7zYKx3JJ7nRqarikhCkFJjKhYohG8btn5jQun5elnc8bDvcPP0FWXupdZDWSazeFZ5Ha7BA==",
+  "success": true,
+  "projectFilePath": "C:\\NDU\\inquba\\test\\inquba\\Coffee\\inQuba.Drinks.Ioc\\inQuba.Drinks.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ndumiso.mthembu\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\ndumiso.mthembu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

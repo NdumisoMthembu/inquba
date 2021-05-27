@@ -1,0 +1,26 @@
+D:\Development\New folder\inquba-test\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.deps.json
+D:\Development\New folder\inquba-test\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.dll
+D:\Development\New folder\inquba-test\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.pdb
+D:\Development\New folder\inquba-test\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.AssemblyInfoInputs.cache
+D:\Development\New folder\inquba-test\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.AssemblyInfo.cs
+D:\Development\New folder\inquba-test\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.csproj.CoreCompileInputs.cache
+D:\Development\New folder\inquba-test\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.dll
+D:\Development\New folder\inquba-test\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.pdb
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.deps.json
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.dll
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.pdb
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.AssemblyInfoInputs.cache
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.AssemblyInfo.cs
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.csproj.CoreCompileInputs.cache
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.dll
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.pdb
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.csprojAssemblyReference.cache
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.deps.json
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.dll
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\bin\Debug\netcoreapp3.1\inQuba.Drinks.pdb
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.csprojAssemblyReference.cache
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.AssemblyInfoInputs.cache
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.AssemblyInfo.cs
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.csproj.CoreCompileInputs.cache
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.dll
+C:\NDU\inquba\test\inquba\Coffee\inQuba.Drinks\obj\Debug\netcoreapp3.1\inQuba.Drinks.pdb

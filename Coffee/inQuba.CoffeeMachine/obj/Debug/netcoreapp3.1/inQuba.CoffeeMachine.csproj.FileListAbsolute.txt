@@ -1,0 +1,54 @@
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.exe
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.deps.json
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.runtimeconfig.json
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.runtimeconfig.dev.json
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.dll
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.pdb
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.dll
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.Factories.dll
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.Factories.pdb
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.pdb
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csprojAssemblyReference.cache
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.AssemblyInfoInputs.cache
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.AssemblyInfo.cs
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csproj.CoreCompileInputs.cache
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csproj.CopyComplete
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.dll
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.pdb
+D:\Development\New folder\inquba-test\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.genruntimeconfig.cache
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.exe
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.deps.json
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.runtimeconfig.json
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.runtimeconfig.dev.json
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.dll
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.pdb
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.dll
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.Factories.dll
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.Factories.pdb
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.pdb
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csprojAssemblyReference.cache
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.AssemblyInfoInputs.cache
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.AssemblyInfo.cs
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csproj.CopyComplete
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.dll
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.pdb
+C:\NDU\inquba\inquba-test-main\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.genruntimeconfig.cache
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.exe
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.deps.json
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.runtimeconfig.json
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.runtimeconfig.dev.json
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.dll
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.CoffeeMachine.pdb
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.dll
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.Factories.dll
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.Factories.pdb
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\bin\Debug\netcoreapp3.1\inQuba.Drinks.pdb
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csprojAssemblyReference.cache
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.AssemblyInfoInputs.cache
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.AssemblyInfo.cs
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.csproj.CopyComplete
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.dll
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.pdb
+C:\NDU\inquba\test\inquba\Coffee\inQuba.CoffeeMachine\obj\Debug\netcoreapp3.1\inQuba.CoffeeMachine.genruntimeconfig.cache
